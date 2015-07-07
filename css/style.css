@@ -1,0 +1,60 @@
+.title-logo{
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+     color: #747704;
+	font-weight: 300;
+
+}
+
+.text-muted {
+	color : #BCBBBB;
+	font-family: Gotham HTF;
+}
+.text-thin {
+	font-weight: 100;
+}
+.title-super {
+	font-size: 60px;
+}
+
+hr{
+	border: none;
+	height: 4px;
+	color: #bcbbbb;
+    background-color: #bcbbbb;
+}
+
+.titleone{
+	font-family: Gotham HTF;
+	font-size: 32px;
+	color: #686868 ;
+	letter-spacing: 2px;
+}
+.titletwo{
+	font-family: Gotham HTF;
+     font-size: 32px;
+	color: #686868 ;
+	letter-spacing: 2px;
+}
+
+.titlethree{
+
+	font-family: Gotham HTF;
+	font-size: 32px;
+	color: #686868 ;
+	letter-spacing: 2px;
+}
+
+p{
+	color: #BCBBBB;
+	font-weight: 100;
+}
+
+
+
+
+
