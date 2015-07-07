@@ -3,11 +3,11 @@
 	height: 100px;
 	margin-top: 20px;
 }
+
 body{
 	font-family: 'Lato', sans-serif;
-     color: #747704;
+	color: #686868;
 	font-weight: 300;
-
 }
 
 .text-muted {
@@ -25,7 +25,7 @@ hr{
 	border: none;
 	height: 4px;
 	color: #bcbbbb;
-    background-color: #bcbbbb;
+	background-color: #bcbbbb;
 }
 
 .titleone{
@@ -36,13 +36,12 @@ hr{
 }
 .titletwo{
 	font-family: Gotham HTF;
-     font-size: 32px;
+	font-size: 32px;
 	color: #686868 ;
 	letter-spacing: 2px;
 }
 
 .titlethree{
-
 	font-family: Gotham HTF;
 	font-size: 32px;
 	color: #686868 ;
@@ -54,7 +53,9 @@ p{
 	font-weight: 100;
 }
 
-
-
-
+img-responsive{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
 
