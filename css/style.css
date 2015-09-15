@@ -10,17 +10,20 @@ body{
 	font-weight: 300;
 }
 
-.text-muted {
-	color : #BCBBBB;
+.text-muted{
+	color : #bcbbbb;
 	font-family: Gotham HTF;
 }
-.text-thin {
+
+.text-thin{
 	font-weight: 100;
+
 }
-.title-super {
+.title-super{
 	font-size: 60px;
 }
 
+/* TODO: Specifying Horizontal line */
 hr{
 	border: none;
 	height: 4px;
@@ -28,34 +31,41 @@ hr{
 	background-color: #bcbbbb;
 }
 
+/*TODO: Specifying titleone Appify */
 .titleone{
-	font-family: Gotham HTF;
-	font-size: 32px;
-	color: #686868 ;
-	letter-spacing: 2px;
-}
-.titletwo{
-	font-family: Gotham HTF;
-	font-size: 32px;
-	color: #686868 ;
+	font: 32px, Gotham HTF;
+	color: #686868;
 	letter-spacing: 2px;
 }
 
+/*TODO: Specifying titletwo Sunflower */
+.titletwo{
+	font: 32px, Gotham HTF;
+	color: #686868;
+	letter-spacing: 2px;
+}
+
+/*TODO: Specifying titlethree Boekh */
 .titlethree{
-	font-family: Gotham HTF;
-	font-size: 32px;
+	font: 32px, Gotham HTF;
 	color: #686868 ;
 	letter-spacing: 2px;
 }
 
 p{
-	color: #BCBBBB;
+	color: #bcbbbb;
 	font-weight: 100;
 }
 
-img-responsive{
+.img-responsive{
 	max-width: 100%;
 	height: auto;
 	display: block;
 }
+
+.container{
+
+}
+
+
 
